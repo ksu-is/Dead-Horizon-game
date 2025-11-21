@@ -1,1 +1,32 @@
+# Dead Horizon - Project Roadmap
 
+## Phase 1 - Core Game Setup (Nov 20 - Nov 24)
+- [] Set up 'Survivor' and 'GameState' classes 
+- [] Create main game loop (status screen + menu)
+- [] Add actions; relocate, rest, fortify, scavenge
+- [] Add systems for food, water, base integrity, infections, morale
+- [] Implement save/load (JSON)
+- [] Test a draft playthrough
+
+## Phase 2 - Balancing & Gameplay Polish (Nov 25 - Dec 1)
+- [] Adjust horde, raider, and good event chances
+- [] Balance scavenger rewards and starting supplies
+- [] Tune infection progression and healing
+- [] Playtest for difficulty and game feel
+- [] Create PPT Splash Screen
+
+## Phase 3 - User Experience Improvements (Dec 2 - Dec 4)
+- [] Clean up formatting of status screen
+- [] Improve event messages
+- [] Add feedback when morale changes (increase/decrease)
+- [] Make the turn flow easier to understand 
+
+## Phase 4 - Testing & Bug Fixing (Dec 5 - Dec 6)
+- [] Run multiple playthroughs with different strategies 
+- [] Fix any crashes or bugs
+- [] Verify save/load works correctly
+
+## Phase 5 - Final Documentation & Submission (Dec 7 - Dec 8)
+- [] Update README with directions and game overview
+- [] Code cleanup and add comments if needed
+- [] Prepare notes/screenshots for Teams Presentation
