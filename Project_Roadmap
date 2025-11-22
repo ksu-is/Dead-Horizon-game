@@ -1,8 +1,8 @@
 # Dead Horizon - Project Roadmap
 
 ## Phase 1 - Core Game Setup (Nov 20 - Nov 24)
-- [x] Set up Config & Balancing Settings **Done**
-- [] Set up 'Survivor' and 'GameState' classes 
+- [X] Set up Config & Balancing Settings
+- [X] Set up 'Survivor' and 'GameState' classes 
 - [] Create main game loop (status screen + menu)
 - [] Add actions; relocate, rest, fortify, scavenge
 - [] Add systems for food, water, base integrity, infections, morale
