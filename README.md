@@ -9,7 +9,7 @@ Dead Horizon will be a Python-based, text-driven survival game that is inspired 
   
 ## Software Used
 - Python 3.11+
-- Standard libraries: random, json
+- Standard libraries: random, json, dataclass, os
 - Optional: pygame for later UI expansion
   
 ## Team
